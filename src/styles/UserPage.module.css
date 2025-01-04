@@ -1,0 +1,136 @@
+/* Container for the entire user page */
+.userPageContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styles */
+.userPageHeader {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.userPageSubHeader {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  color: #555;
+}
+
+/* Reviews list */
+.reviewsList {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.reviewItem {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 10px 0;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.reviewItem div {
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.reviewItem strong {
+  font-size: 1rem;
+  color: #333;
+}
+
+/* Buttons */
+.button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 112, 243, 0.5); /* Accessible focus ring */
+}
+
+.button:hover {
+  background-color: #005bb5;
+  transform: scale(1.03); /* Subtle scaling effect */
+}
+
+.button:active {
+  background-color: #003e82;
+  transform: scale(1); /* Remove hover effect */
+}
+
+.deleteButton {
+  background-color: #d9534f;
+  border: none;
+  color: #fff;
+  padding: 8px 14px;
+  font-size: 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.deleteButton:hover {
+  background-color: #c9302c;
+  transform: scale(1.03);
+}
+
+.deleteButton:active {
+  background-color: #ac2925;
+  transform: scale(1);
+}
+
+/* Responsive adjustments for mobile */
+@media screen and (max-width: 768px) {
+  .userPageContainer {
+    padding: 15px;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .reviewsList {
+    padding: 0;
+    margin: 10px 0;
+  }
+
+  .reviewItem {
+    padding: 10px;
+    font-size: 0.85rem;
+  }
+
+  .button {
+    width: 100%;
+    font-size: 0.85rem;
+    padding: 10px 15px;
+  }
+
+  .deleteButton {
+    width: 100%;
+    font-size: 0.8rem;
+    padding: 8px 12px;
+  }
+}

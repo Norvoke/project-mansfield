@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "googleId": "114204706017491288882",
+    "name": "Joseph Todd",
+    "email": "jtodd@middlebury.edu",
+    "savedReviews": [1, 2, 3]
+  },
+  {
+    "id": 2,
+    "googleId": "114204704017491288883",
+    "name": "Omar Armbruster",
+    "email": "oarmbruster@middlebury.edu",
+    "savedReviews": [1, 2]
+  },
+  {
+    "id": 3,
+    "googleId": "114204704017491288884",
+    "name": "Owen Park",
+    "email": "ospark@middlebury.edu",
+    "savedReviews": [1, 2]
+  },
+  {
+    "id": 4,
+    "googleId": "114204704017491288885",
+    "name": "Finn Ellingwood",
+    "email": "wellingwood@middlebury.edu",
+    "savedReviews": [1, 2]
+  },
+  {
+    "id": 5,
+    "googleId": "114204704017491288886",
+    "name": "Laura Biester",
+    "email": "lbiester@middlebury.edu",
+    "savedReviews": [1, 2]
+  }
+]

@@ -1,0 +1,39 @@
+/* components/LoginWidget.module.css */
+
+.loginContainer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10px; /* Added space between text and button */
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  .signedIn p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .signOutButton {
+    background-color: #f44336; /* Red color for sign out */
+  }
+  
+  .signOutButton:hover {
+    background-color: #d32f2f;
+  }
+  

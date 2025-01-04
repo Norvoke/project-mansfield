@@ -1,0 +1,21 @@
+/* Wrapper for symmetrical alignment */
+.filterContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 1200px;
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Building Filter */
+.buildingFilter {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+}

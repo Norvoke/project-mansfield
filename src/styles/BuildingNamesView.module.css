@@ -1,0 +1,69 @@
+/* Container for the building names list */
+.buildingNamesContainer {
+  padding: 12px; /* Reduced padding for compactness */
+  background-color: #ffffff; /* Cleaner white background */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  margin: 10px auto;
+}
+
+/* Building names list */
+.buildingNames {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px; /* Smaller gap for compact layout */
+  justify-content: center;
+}
+
+/* Individual building item */
+.buildingItem {
+  margin: 0;
+}
+
+/* Buttons for building names */
+.buildingButton {
+  background-color: #0070f3; /* Primary blue */
+  color: white;
+  border: none;
+  border-radius: 6px; /* Smaller radius for compactness */
+  padding: 6px 12px; /* Reduced padding for smaller buttons */
+  cursor: pointer;
+  font-size: 0.9rem; /* Slightly smaller font for compactness */
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.buildingButton:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(0, 112, 243, 0.5); /* Smaller focus ring */
+}
+
+.buildingButton:hover {
+  background-color: #005bb5; /* Darker blue for hover */
+  transform: scale(1.03); /* Subtle scaling effect */
+}
+
+.buildingButton:active {
+  background-color: #003e82; /* Even darker for active state */
+  transform: scale(1); /* Remove hover effect */
+}
+
+/* Responsive design for mobile devices */
+@media screen and (max-width: 768px) {
+  .buildingNames {
+    flex-direction: column;
+    align-items: stretch; /* Full-width buttons on mobile */
+    gap: 6px; /* Smaller gap for vertical layout */
+  }
+
+  .buildingButton {
+    width: 100%;
+    font-size: 0.85rem; /* Slightly smaller font for mobile */
+    padding: 6px 10px; /* Adjust padding for full-width buttons */
+  }
+}

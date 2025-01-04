@@ -1,0 +1,23 @@
+.filled {
+  color: blue;
+  font-size: 24px;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    color 0.3s ease;
+}
+
+.empty {
+  color: rgb(200, 200, 200);
+  font-size: 24px;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    color 0.3s ease;
+}
+
+.filled:hover,
+.empty:hover {
+  transform: scale(1.2);
+  color: darkblue;
+}

@@ -1,0 +1,1058 @@
+[
+  {
+    "reviewID": 1,
+    "userID": "fakeID1",
+    "review": "Probably one of the best dorms for first-years. The rooms are pretty spacious, and there’s a nice kitchen and a big lounge, which makes it great for hanging out with friends. The biggest downside is the location—it’s kind of far from most buildings, and weekends can be a hassle since Atwater’s closed, so getting food isn’t the easiest. Also, there’s no laundry in the building, so you’ll have to go to Coffrin or Atwater A to get that done.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 2,
+      "Storage": 4
+    },
+    "buildingID": "allen",
+    "likes": 0,
+    "date": "2023-10-10T14:30:00Z"
+  },
+  {
+    "reviewID": 2,
+    "userID": "fakeID2",
+    "review": "Gifford has been the most memorable dorm that I've lived in while at midd. I think it is one of the best locations for sophomores to live in, especially sophomore febs. I think this because its place in the middle of campus, along with being close so close to the Chapel, to the Student Center, and to the lecture halls where I had classes at the time. I would say if you are planning on majoring in any of the 'humanities', Giff is high up on where you should hangout. It hosts WOMP, the Wednesday open mic party every week in the gamut room in the basement. The main issue with Giff being so centrally located is that it is not the quietest space nor the best furnished—it being one of the oldest dorms on campus.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 2,
+      "Location": 5,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "gifford",
+    "likes": 0,
+    "date": "2023-10-11T14:30:00Z"
+  },
+  {
+    "reviewID": 3,
+    "userID": "fakeID3",
+    "review": "I loved living in Forest. It is included in the few spaces that the office of Disability Accommodations sets aside for students in need. This means it has good parking nearby, it is relatively quiet at all times, and that the amenities (bathrooms, kitchens, elevators, etc) are some of the best on campus. Forest being very close to the center of campus is a big plus too and factored heavily in my choice to live there my Junior year.",
+    "ratings": {
+      "Overall": 5,
+      "Noise": 5,
+      "Location": 4,
+      "Cleanliness": 5,
+      "Accessibility": 5,
+      "Storage": 4
+    },
+    "buildingID": "forest",
+    "likes": 0,
+    "date": "2023-10-12T14:30:00Z"
+  },
+  {
+    "reviewID": 4,
+    "userID": "fakeID4",
+    "review": "I was assigned Starr hall my sophomore summer while working on campus. It was a great dorm for my needs but it definitely has some downsides. I think the bathrooms and lack of kitchen were of my biggest issues.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 3,
+      "Accessibility": 3,
+      "Storage": 2
+    },
+    "buildingID": "starr",
+    "likes": 0,
+    "date": "2023-10-13T14:30:00Z"
+  },
+  {
+    "reviewID": 5,
+    "userID": "fakeID5",
+    "review": "Overall pretty good dorm. The lounge is huge, and there’s a laundry room. The singles are pretty spacious, and the bathrooms are single-gender and usually clean. The main drawback is the location—it’s a bit far from most buildings, not very convenient for getting food on weekends since Atwater is closed, and it’s a long walk to the mail center.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 2,
+      "Storage": 4
+    },
+    "buildingID": "coffrin",
+    "likes": 0,
+    "date": "2023-10-14T14:30:00Z"
+  },
+  {
+    "reviewID": 6,
+    "userID": "fakeID6",
+    "review": "The rooms are pretty spacious, but it can get really noisy. The lounge is small, and the kitchen isn’t great—the fridge is tiny, so I ended up having to get my own fridge and freezer. The bathrooms could definitely be cleaner. The location is not bad—it’s close to a lot of buildings and the mail center, but it is not near any dining halls.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 2,
+      "Location": 4,
+      "Cleanliness": 2,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "starr",
+    "likes": 0,
+    "date": "2023-10-15T14:30:00Z"
+  },
+  {
+    "reviewID": 7,
+    "userID": "fakeID7",
+    "review": "Stewart is a nice freshman dorm, it is smaller than Battell so I got to know the people on my hallway. It is also nicer than some of the other freshman dorms.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "stewart",
+    "likes": 0,
+    "date": "2023-10-16T14:30:00Z"
+  },
+  {
+    "reviewID": 8,
+    "userID": "fakeID8",
+    "review": "Gifford is a great location on campus. I felt like the layout of the suite was really weird, there was not a lot of common space. The room sizes are decent in Suite A and it is right near the laundry room.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 3,
+      "Location": 5,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 4
+    },
+    "buildingID": "gifford",
+    "likes": 0,
+    "date": "2023-10-17T14:30:00Z"
+  },
+  {
+    "reviewID": 9,
+    "userID": "fakeID9",
+    "review": "Adirondack House has a cozy feel, and it’s a great place for smaller social gatherings. The rooms are generally decent, but the noise levels can get a bit high due to its location near busy pathways.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "adirondack",
+    "likes": 0,
+    "date": "2023-10-18T14:30:00Z"
+  },
+  {
+    "reviewID": 10,
+    "userID": "fakeID10",
+    "review": "97 Adirondack View is relatively quiet, which I enjoyed. However, the bathrooms could use an upgrade. The overall atmosphere is welcoming, and I met some great people here.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "adirondack97",
+    "likes": 0,
+    "date": "2023-10-19T14:30:00Z"
+  },
+  {
+    "reviewID": 11,
+    "userID": "fakeID11",
+    "review": "99 Adirondack View has spacious rooms and a good amount of common space. It is close to several key buildings, making it convenient, but the noise from nearby gatherings can be a bit much.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 2,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 4
+    },
+    "buildingID": "adirondack99",
+    "likes": 0,
+    "date": "2023-10-20T14:30:00Z"
+  },
+  {
+    "reviewID": 12,
+    "userID": "fakeID12",
+    "review": "Adirondack 20 has great character. It feels historical but also a bit outdated. The furniture isn’t the best, but the sense of community here makes up for it.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 2
+    },
+    "buildingID": "adirondack20",
+    "likes": 0,
+    "date": "2023-10-21T14:30:00Z"
+  },
+  {
+    "reviewID": 13,
+    "userID": "fakeID13",
+    "review": "Atwater Suites A offers a spacious living environment with excellent kitchen amenities. The biggest drawback is the distance from dining halls and the general isolation from campus activity.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 2,
+      "Cleanliness": 5,
+      "Accessibility": 2,
+      "Storage": 5
+    },
+    "buildingID": "atwaterA",
+    "likes": 0,
+    "date": "2023-10-22T14:30:00Z"
+  },
+  {
+    "reviewID": 14,
+    "userID": "fakeID14",
+    "review": "Atwater B Suites are well-maintained and offer good communal spaces. However, it can be quite noisy on weekends, and the location is a bit far from major spots on campus.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 2,
+      "Location": 3,
+      "Cleanliness": 5,
+      "Accessibility": 2,
+      "Storage": 4
+    },
+    "buildingID": "atwaterB",
+    "likes": 0,
+    "date": "2023-10-23T14:30:00Z"
+  },
+  {
+    "reviewID": 15,
+    "userID": "ratHater9000",
+    "review": "Battell Hall is infested with a colony of rats that do everything within their power to annoy the residents daily. I try to study, rat on my notebook. I go to sleep, rat dive bombs my bed waking me up. I try to take a shower, rats steal my shampoo. This dorm is horrible I am moving out. I am giving this dorm a rating of rats/10",
+    "ratings": {
+      "Overall": 0,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 0,
+      "Accessibility": 4,
+      "Storage": 2
+    },
+    "buildingID": "battell",
+    "likes": 0,
+    "date": "2023-10-24T14:30:00Z"
+  },
+  {
+    "reviewID": 16,
+    "userID": "fakeID16",
+    "review": "Bowker has a special charm to it. The communal spaces are nice, and it’s great for building close bonds. However, the building’s layout is a bit confusing, and storage is limited.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 2
+    },
+    "buildingID": "bowker",
+    "likes": 0,
+    "date": "2023-10-25T14:30:00Z"
+  },
+  {
+    "reviewID": 17,
+    "userID": "fakeID17",
+    "review": "Brackett, or Tavern, is a unique place to live, offering character and a strong sense of history. Noise can be an issue, though, due to events held in the vicinity.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 2,
+      "Location": 4,
+      "Cleanliness": 3,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "brackett",
+    "likes": 0,
+    "date": "2023-10-26T14:30:00Z"
+  },
+  {
+    "reviewID": 18,
+    "userID": "fakeID18",
+    "review": "Brooker is an interesting residence for those who appreciate the outdoors. It’s not too far from main campus locations, but it can feel a bit secluded at times.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "brooker",
+    "likes": 0,
+    "date": "2023-10-27T14:30:00Z"
+  },
+  {
+    "reviewID": 19,
+    "userID": "fakeID19",
+    "review": "20 Old Chapel Road has a charming, historic vibe. The rooms are spacious, and the location is convenient for getting to classes quickly. Noise can be an issue due to nearby events.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 5,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "chapel20",
+    "likes": 0,
+    "date": "2023-10-28T14:30:00Z"
+  },
+  {
+    "reviewID": 20,
+    "userID": "fakeID20",
+    "review": "LeChateau offers a unique and beautiful experience. The common areas are great, but some of the rooms feel a bit outdated. The proximity to campus makes it an excellent option.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 5,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "chateau",
+    "likes": 0,
+    "date": "2023-10-29T14:30:00Z"
+  },
+  {
+    "reviewID": 21,
+    "userID": "fakeID21",
+    "review": "Coffrin has spacious singles and a large lounge area. It’s a bit far from dining halls, making it a bit of a trek to get food, but overall a solid place to stay.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 2,
+      "Storage": 4
+    },
+    "buildingID": "coffrin",
+    "likes": 0,
+    "date": "2023-10-30T14:30:00Z"
+  },
+  {
+    "reviewID": 22,
+    "userID": "fakeID22",
+    "review": "Portuguese House (College 236) is a lovely spot for language immersion. The communal spaces are great for gatherings, but the rooms could use better storage solutions.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 2
+    },
+    "buildingID": "college236",
+    "likes": 0,
+    "date": "2023-10-31T14:30:00Z"
+  },
+  {
+    "reviewID": 23,
+    "userID": "fakeID23",
+    "review": "248 College Street is well-located, with nice common spaces and good-sized rooms. It can get noisy at times due to traffic, but it’s a solid place to live overall.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "college248",
+    "likes": 0,
+    "date": "2023-11-01T14:30:00Z"
+  },
+  {
+    "reviewID": 24,
+    "userID": "fakeID24",
+    "review": "Russian House (College 637) is a quiet and charming place to live. It’s great for focused studies and has a strong sense of community.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 5,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "college637",
+    "likes": 0,
+    "date": "2023-11-02T14:30:00Z"
+  },
+  {
+    "reviewID": 25,
+    "userID": "fakeID25",
+    "review": "Deanery is great for German language enthusiasts. It has excellent amenities and a welcoming environment, but storage is a bit limited.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 2
+    },
+    "buildingID": "deanery",
+    "likes": 0,
+    "date": "2023-11-03T14:30:00Z"
+  },
+  {
+    "reviewID": 26,
+    "userID": "fakeID26",
+    "review": "Forest Hall is one of the best for accessibility and quiet living. It’s close to main campus areas and offers a nice environment for studying and relaxing.",
+    "ratings": {
+      "Overall": 5,
+      "Noise": 5,
+      "Location": 4,
+      "Cleanliness": 5,
+      "Accessibility": 5,
+      "Storage": 4
+    },
+    "buildingID": "forest",
+    "likes": 0,
+    "date": "2023-11-04T14:30:00Z"
+  },
+  {
+    "reviewID": 27,
+    "userID": "fakeID27",
+    "review": "French House (Franklin 51) has a great atmosphere for language learning. It’s well-maintained, but it can get a bit noisy due to gatherings and events.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "franklin51",
+    "likes": 0,
+    "date": "2023-11-05T14:30:00Z"
+  },
+  {
+    "reviewID": 28,
+    "userID": "fakeID28",
+    "review": "Gifford is centrally located and has a great social scene. However, it’s not the quietest place, so it’s better suited for those who enjoy lively environments.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 2,
+      "Location": 5,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "gifford",
+    "likes": 0,
+    "date": "2023-11-06T14:30:00Z"
+  },
+  {
+    "reviewID": 29,
+    "userID": "fakeID29",
+    "review": "Hadley Hall offers decent-sized rooms and good communal areas. The noise levels are average, but the bathrooms could be cleaner.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 3,
+      "Location": 3,
+      "Cleanliness": 3,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "hadley",
+    "likes": 0,
+    "date": "2023-11-07T14:30:00Z"
+  },
+  {
+    "reviewID": 30,
+    "userID": "fakeID30",
+    "review": "Hepburn Hall is a popular choice due to its proximity to main campus buildings. The rooms are okay, but it can get noisy, especially during weekends.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 2,
+      "Location": 5,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "hepburn",
+    "likes": 0,
+    "date": "2023-11-08T14:30:00Z"
+  },
+  {
+    "reviewID": 31,
+    "userID": "fakeID31",
+    "review": "Queer Studies House (Hillcrest 70) is an inclusive and welcoming space. It’s relatively quiet but has limited storage and small rooms.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 5,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 2
+    },
+    "buildingID": "hillcrest70",
+    "likes": 0,
+    "date": "2023-11-09T14:30:00Z"
+  },
+  {
+    "reviewID": 32,
+    "userID": "fakeID32",
+    "review": "Homer Harris House offers a cozy and quiet atmosphere. The rooms are comfortable, but it can feel isolated at times due to its location.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 5,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 4
+    },
+    "buildingID": "homerHarris",
+    "likes": 0,
+    "date": "2023-11-10T14:30:00Z"
+  },
+  {
+    "reviewID": 33,
+    "userID": "fakeID33",
+    "review": "Homestead House has a rustic charm. It’s great for people who enjoy a quieter, community-driven environment. Storage space is limited, though.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 2
+    },
+    "buildingID": "homestead",
+    "likes": 0,
+    "date": "2023-11-11T14:30:00Z"
+  },
+  {
+    "reviewID": 34,
+    "userID": "fakeID34",
+    "review": "Insite Sustainable Living is great for those interested in eco-friendly living. It’s a quiet place with unique amenities, but it can feel isolated from main campus activities.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 5,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "insite",
+    "likes": 0,
+    "date": "2023-11-12T14:30:00Z"
+  },
+  {
+    "reviewID": 35,
+    "userID": "fakeID35",
+    "review": "Jewett House is a comfortable place with spacious rooms and good communal spaces. It is relatively quiet and close to key campus spots, making it very convenient.",
+    "ratings": {
+      "Overall": 5,
+      "Noise": 4,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 4
+    },
+    "buildingID": "jewett",
+    "likes": 0,
+    "date": "2023-11-13T14:30:00Z"
+  },
+  {
+    "reviewID": 36,
+    "userID": "fakeID36",
+    "review": "Kelly Hall offers great views and a good living environment for upperclassmen. It can get noisy at times due to its popularity for social gatherings.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "kelly",
+    "likes": 0,
+    "date": "2023-11-14T14:30:00Z"
+  },
+  {
+    "reviewID": 37,
+    "userID": "fakeID37",
+    "review": "La Force is a spacious and well-maintained residence. The location is convenient, but the building itself can feel a bit impersonal due to its size.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "laForce",
+    "likes": 0,
+    "date": "2023-11-15T14:30:00Z"
+  },
+  {
+    "reviewID": 38,
+    "userID": "fakeID38",
+    "review": "Lang Hall is a great place for upperclassmen. The rooms are well-sized, and the community atmosphere is strong. Noise levels are moderate, and it’s relatively close to the main buildings.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 4
+    },
+    "buildingID": "lang",
+    "likes": 0,
+    "date": "2023-11-16T14:30:00Z"
+  },
+  {
+    "reviewID": 39,
+    "userID": "fakeID39",
+    "review": "Italian House (Longwell) has a great community feel for language immersion, but it can get a bit noisy during events. The rooms are comfortable, and the communal spaces are welcoming.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "longwell",
+    "likes": 0,
+    "date": "2023-11-17T14:30:00Z"
+  },
+  {
+    "reviewID": 40,
+    "userID": "fakeID40",
+    "review": "Hathaway House (Main 135) is centrally located, making it a convenient choice for students. The rooms are comfortable, though the building can get noisy at times.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 5,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "main135",
+    "likes": 0,
+    "date": "2023-11-18T14:30:00Z"
+  },
+  {
+    "reviewID": 41,
+    "userID": "fakeID41",
+    "review": "Meeker (Intentional Living House) has a unique community vibe and a strong focus on sustainability. It’s a great choice if you value community living, but storage is limited.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 2
+    },
+    "buildingID": "meeker",
+    "likes": 0,
+    "date": "2023-11-19T14:30:00Z"
+  },
+  {
+    "reviewID": 42,
+    "userID": "fakeID42",
+    "review": "The Mill is perfect for those who enjoy creative spaces. It’s a bit far from main campus areas, but it offers a unique living experience and strong community ties.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 2,
+      "Storage": 3
+    },
+    "buildingID": "mill",
+    "likes": 0,
+    "date": "2023-11-20T14:30:00Z"
+  },
+  {
+    "reviewID": 43,
+    "userID": "fakeID43",
+    "review": "Millikin Hall is a good place for quiet living. The rooms are spacious, and the communal areas are well-maintained. Noise levels are generally low.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 5,
+      "Location": 3,
+      "Cleanliness": 5,
+      "Accessibility": 4,
+      "Storage": 4
+    },
+    "buildingID": "millikin",
+    "likes": 0,
+    "date": "2023-11-21T14:30:00Z"
+  },
+  {
+    "reviewID": 44,
+    "userID": "fakeID44",
+    "review": "Munford House has a cozy and friendly atmosphere. It’s great for making friends, but the rooms are on the smaller side, and noise can be an issue.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 3,
+      "Accessibility": 3,
+      "Storage": 2
+    },
+    "buildingID": "munford",
+    "likes": 0,
+    "date": "2023-11-22T14:30:00Z"
+  },
+  {
+    "reviewID": 45,
+    "userID": "fakeID45",
+    "review": "Painter Hall has a nice mix of communal and private spaces. The lounge is excellent for gatherings, but noise from nearby events can be a drawback.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "painter",
+    "likes": 0,
+    "date": "2023-11-23T14:30:00Z"
+  },
+  {
+    "reviewID": 46,
+    "userID": "fakeID46",
+    "review": "PALANA (Palmer) has a strong sense of community and is a great place for cultural immersion. The rooms are comfortable, but storage could be better.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 2
+    },
+    "buildingID": "palmer",
+    "likes": 0,
+    "date": "2023-11-24T14:30:00Z"
+  },
+  {
+    "reviewID": 47,
+    "userID": "fakeID47",
+    "review": "Pearsons Hall has spacious rooms and good communal areas. It’s a bit noisy due to its location but offers great accessibility to key spots on campus.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "pearsons",
+    "likes": 0,
+    "date": "2023-11-25T14:30:00Z"
+  },
+  {
+    "reviewID": 48,
+    "userID": "fakeID48",
+    "review": "Spanish House (Perkins) has a welcoming community and great communal spaces. It’s perfect for language enthusiasts, though noise from events can be a drawback.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "perkins",
+    "likes": 0,
+    "date": "2023-11-26T14:30:00Z"
+  },
+  {
+    "reviewID": 49,
+    "userID": "fakeID49",
+    "review": "Interfaith House (Porter) is inclusive and has great amenities. The atmosphere is friendly and welcoming, but storage can be a bit limited.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 2
+    },
+    "buildingID": "porter",
+    "likes": 0,
+    "date": "2023-11-27T14:30:00Z"
+  },
+  {
+    "reviewID": 50,
+    "userID": "fakeID50",
+    "review": "Chromatic (Prescott) has a vibrant atmosphere with frequent events. It’s a great place to meet people, but noise levels can be high, especially during weekends.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 2,
+      "Location": 4,
+      "Cleanliness": 3,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "prescott",
+    "likes": 0,
+    "date": "2023-11-28T14:30:00Z"
+  },
+  {
+    "reviewID": 51,
+    "userID": "fakeID51",
+    "review": "Ridgeline Suites offer excellent views and good amenities. It’s a bit far from key spots on campus but offers a quiet and comfortable living space.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 5,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 4
+    },
+    "buildingID": "ridgeline",
+    "likes": 0,
+    "date": "2023-11-29T14:30:00Z"
+  },
+  {
+    "reviewID": 52,
+    "userID": "fakeID52",
+    "review": "Ross Tower offers excellent views of the campus and has well-sized rooms. It’s a bit noisy at times, especially during social events, but overall a great place to live.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "rossTower",
+    "likes": 0,
+    "date": "2023-11-30T14:30:00Z"
+  },
+  {
+    "reviewID": 53,
+    "userID": "fakeID53",
+    "review": "Self Reliance House is perfect for those who enjoy quiet living and sustainability. The rooms are decent, but it’s quite far from main campus spots.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 5,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "selfReliance",
+    "likes": 0,
+    "date": "2023-12-01T14:30:00Z"
+  },
+  {
+    "reviewID": 54,
+    "userID": "fakeID54",
+    "review": "107 Shannon Street has a cozy feel with spacious rooms. The communal areas are nice, and it’s relatively quiet. However, it’s a bit isolated from major campus buildings.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "shannon107",
+    "likes": 0,
+    "date": "2023-12-02T14:30:00Z"
+  },
+  {
+    "reviewID": 55,
+    "userID": "fakeID55",
+    "review": "South 48 Street is great for upperclassmen with its spacious rooms and good communal spaces. It’s a bit far from dining areas, but the quietness makes up for it.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "south48",
+    "likes": 0,
+    "date": "2023-12-03T14:30:00Z"
+  },
+  {
+    "reviewID": 56,
+    "userID": "fakeID56",
+    "review": "Chinese House (South Main 108) is a great community for language immersion. The rooms are well-maintained, but noise can be an issue during events.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "southmain108",
+    "likes": 0,
+    "date": "2023-12-04T14:30:00Z"
+  },
+  {
+    "reviewID": 57,
+    "userID": "fakeID57",
+    "review": "118 South Main Street offers a convenient location with comfortable rooms. Noise levels are moderate, and the amenities are well-kept.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 5,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "southmain118",
+    "likes": 0,
+    "date": "2023-12-05T14:30:00Z"
+  },
+  {
+    "reviewID": 58,
+    "userID": "fakeID58",
+    "review": "Arabic House (Sperry) has a great atmosphere for language learning. It offers good communal areas but can be a bit noisy during language events.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "sperry",
+    "likes": 0,
+    "date": "2023-12-06T14:30:00Z"
+  },
+  {
+    "reviewID": 59,
+    "userID": "fakeID59",
+    "review": "Starr Hall has a good mix of communal and private spaces. It’s relatively quiet, but the lack of kitchen amenities is a drawback.",
+    "ratings": {
+      "Overall": 3,
+      "Noise": 4,
+      "Location": 4,
+      "Cleanliness": 3,
+      "Accessibility": 3,
+      "Storage": 2
+    },
+    "buildingID": "starr",
+    "likes": 0,
+    "date": "2023-12-07T14:30:00Z"
+  },
+  {
+    "reviewID": 60,
+    "userID": "fakeID60",
+    "review": "Stewart Hall is great for freshmen with its small size and friendly atmosphere. It’s quieter than some other freshman dorms and offers a good introduction to campus life.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 4,
+      "Location": 3,
+      "Cleanliness": 4,
+      "Accessibility": 3,
+      "Storage": 3
+    },
+    "buildingID": "stewart",
+    "likes": 0,
+    "date": "2023-12-08T14:30:00Z"
+  },
+  {
+    "reviewID": 61,
+    "userID": "fakeID61",
+    "review": "Townhouse Center has spacious living arrangements and good communal spaces. It’s a bit noisy at times but offers a good balance of privacy and social areas.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 4
+    },
+    "buildingID": "townhouseC",
+    "likes": 0,
+    "date": "2023-12-09T14:30:00Z"
+  },
+  {
+    "reviewID": 62,
+    "userID": "fakeID62",
+    "review": "Townhouse North is a great place for upperclassmen. It has spacious rooms and good communal areas but can get noisy during social events.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 4
+    },
+    "buildingID": "townhouseN",
+    "likes": 0,
+    "date": "2023-12-10T14:30:00Z"
+  },
+  {
+    "reviewID": 63,
+    "userID": "fakeID63",
+    "review": "Townhouse South offers a good mix of private and communal spaces. It’s well-maintained, though noise can be an issue during weekends.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 4
+    },
+    "buildingID": "townhouseS",
+    "likes": 0,
+    "date": "2023-12-11T14:30:00Z"
+  },
+  {
+    "reviewID": 64,
+    "userID": "fakeID64",
+    "review": "Turner House is a good place for upperclassmen with a friendly atmosphere. The rooms are comfortable, and noise levels are moderate.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 3,
+      "Location": 4,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "turner",
+    "likes": 0,
+    "date": "2023-12-12T14:30:00Z"
+  },
+  {
+    "reviewID": 65,
+    "userID": "fakeID65",
+    "review": "Voter Hall has a great central location with good-sized rooms. Noise can be an issue, but it’s perfect for those who enjoy a vibrant atmosphere.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 2,
+      "Location": 5,
+      "Cleanliness": 4,
+      "Accessibility": 4,
+      "Storage": 3
+    },
+    "buildingID": "voter",
+    "likes": 0,
+    "date": "2023-12-13T14:30:00Z"
+  },
+  {
+    "reviewID": 66,
+    "userID": "fakeID66",
+    "review": "Weybridge is a nice social house but it is far away from campus.",
+    "ratings": {
+      "Overall": 4,
+      "Noise": 1,
+      "Location": 2,
+      "Cleanliness": 4,
+      "Accessibility": 2,
+      "Storage": 4
+    },
+    "buildingID": "weybridge",
+    "likes": 0,
+    "date": "2023-12-14T14:30:00Z"
+  }
+]

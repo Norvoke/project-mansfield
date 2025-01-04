@@ -1,0 +1,930 @@
+[
+  {
+    "buildingID": "allen",
+    "buildingName": "Allen Hall",
+    "buildingCategory": "1st",
+    "floors": ["basement", "floor 1", "floor 2", "floor 3"],
+    "overview": "As the smallest first-year residential building on campus, Allen fosters a close-knit community among its residents. Allen features a large lounge and a full kitchen. Its location offers convenient access to Atwater Dining Hall.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1kvfOQvVcxpCOwoOqfChR7gXed6hYC1Ha",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1v7S-RvPpZC_WpR8o96uNuaB9mGeJCXpk",
+      "https://drive.google.com/uc?export=view&id=1ta73JIDfbaMo8zD5AGpmo1vugjEXVTVg",
+      "https://drive.google.com/uc?export=view&id=1it7Ct7tFwsoS6cmIW-SOMTKGdfgtPnsG",
+      "https://drive.google.com/uc?export=view&id=1epaLG995Eg5D24NYiFor9nuEhbP9sBm6"
+    ],
+    "tags": ["Laundry", "Bike Room", "Elevator", "Parking", "Kitchen"]
+  },
+
+  {
+    "buildingID": "gifford",
+    "buildingName": "Gifford Hall",
+    "buildingCategory": "2nd",
+    "floors": [
+      "basement",
+      "floor 1",
+      "floor 2",
+      "floor 3",
+      "floor 4",
+      "floor 5"
+    ],
+    "overview": "Gifford Hall is a sophomore residence hall that has 4- and 5-person suites in addition to singles. Gifford is conveniently located near Proctor Dining Hall. The building also houses the Gamut Room, a student-run performance space situated in the basement, along with an outdoor amphitheater and a classroom.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1o_EWj-FJOU2d-ju4qhRWtkNygjiIbb5d",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1Wk1tPpRS1g_5j48CaNXGUuVLr5moVpet",
+      "https://drive.google.com/uc?export=view&id=1l6Cq0sobgomlBgPUtjv7jH78GPSyQ-T4",
+      "https://drive.google.com/uc?export=view&id=1RXIjNtBq80CWIIERwzxQvFJCuiJQrkV0",
+      "https://drive.google.com/uc?export=view&id=10Ghor-onaDMOaikEDKUVPl0XOZ0MepVP",
+      "https://drive.google.com/uc?export=view&id=17LRiYfDxcfY8I9DpCvcOdf0JJgeJfmGU",
+      "https://drive.google.com/uc?export=view&id=1J2jf2O5m8QThm1qodBdUg4gCnXwmP0Qu"
+    ],
+    "tags": [
+      "Laundry",
+      "Bike Room",
+      "Elevator",
+      "Single Gender Floors",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "forest",
+    "buildingName": "Forest Hall",
+    "buildingCategory": "upper",
+    "floors": ["basement", "floor 1", "floor 2", "floor 3"],
+    "overview": "Forest Hall is centrally located in the middle of campus. It houses both baby Febs and upperclassmen, featuring singles connected by sink rooms and doubles. It has a large basement space with laundry rooms.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=10PmeJAhzCNwJOYNZwKzN7sn8yUt9yjsP",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=12JG-9ZsAzKWAEM6fggu8T28eysCk62_0",
+      "https://drive.google.com/uc?export=view&id=1US_6Ofhf2HDZI2UIcpfdIs_fwCOm4nfX",
+      "https://drive.google.com/uc?export=view&id=1EJ_dvLueVObu875wFdoD_uot2I0GE92f",
+      "https://drive.google.com/uc?export=view&id=1V0XNzh-auPE5gdbW5ABnhWT_2KFYWvoy"
+    ],
+    "tags": [
+      "Laundry",
+      "Bike Room",
+      "Elevator",
+      "Single Gender Floors",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "starr",
+    "buildingName": "Starr Hall",
+    "buildingCategory": "2nd",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4", "floor 5"],
+    "overview": "Starr Hall is one of the original dorms on campus. Starr is located centerally on campus on Old Chapel Road near the student center and Axinn Center. Starr has singles and two-room doubles and often houses juniors.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1PJBLfyCfKnL8evr6a_7XSmLanOpWxFli",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1OtCSbNv9yoxf40KknB2ajXtm5pIG7SIM",
+      "https://drive.google.com/uc?export=view&id=1gryGh1I1wxwd_UIlcvO1EtGt-cU9dQ9Q",
+      "https://drive.google.com/uc?export=view&id=12HJlHFax3UXGUAVx3r6-GSz9AUiHfyYN",
+      "https://drive.google.com/uc?export=view&id=1sPn8JCcdD9rZG4bLllnYsL2KMXSnRjX-",
+      "https://drive.google.com/uc?export=view&id=1dNfa_cbqgH_8Uh7w23UVPjw_KDHE32ro"
+    ],
+    "tags": []
+  },
+  {
+    "buildingID": "coffrin",
+    "buildingName": "Coffrin Hall",
+    "buildingCategory": "upper",
+    "floors": ["floor 2", "floor 3", "floor 4", "floor 5", "floor 6"],
+    "overview": "Coffrin Hall is located on the north side of campus, conveniently close to Atwater Dining Hall and Bicentennial Hall. Coffrin houses both first years and sophomores with both singles and doubles. Coffrin also has a large communal kitchen.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1Pu9IOAweUjeRbz_tC8vSfJqx3bapSr3X",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=18yW-My6dp-TVqwiCXfDnR51wBHro5jqF",
+      "https://drive.google.com/uc?export=view&id=1_N0gXn_tkV1ns9cxPgb6IHXj3jaT5qSa",
+      "https://drive.google.com/uc?export=view&id=18hKX-hbw1CA5jfxtGHFsqim6AIuT9-q2",
+      "https://drive.google.com/uc?export=view&id=190PzZqiXx2V3LqCjkt0SJgESCBSCsEXo",
+      "https://drive.google.com/uc?export=view&id=1GoG5uZ9U0-nMtoCABqwljD2u9zn88CaM"
+    ],
+    "tags": ["Laundry", "Bike Room", "Elevator", "Kitchen"]
+  },
+  {
+    "buildingID": "stewart",
+    "buildingName": "Stewart Hall",
+    "buildingCategory": "1st",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4", "floor 5"],
+    "overview": "Stewart is a small first year dorm located on the south side of campus. It has doubles on single-gender floors and a large laundry room in the basement. There are residential life offices located on the second floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1ibi7aENqz-MVFHTOeB08zi2vrC-wGLI6",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1p58J4gKwQ_SLNlcMqXi4XhFgRFMcT0vf",
+      "https://drive.google.com/uc?export=view&id=1Jf3D6T459r3Asfpyls9PTW-STbGvZpOD",
+      "https://drive.google.com/uc?export=view&id=1ByrDVD0DpR0S7V7kn_h2tuqLhg1XO2Uv",
+      "https://drive.google.com/uc?export=view&id=1CbVsS0_B6fQEElG5bDHDEGlK8zkI7DWB",
+      "https://drive.google.com/uc?export=view&id=1CANnK1kiIaYMRjMf_d4TC7uzA2vITwlo"
+    ],
+    "tags": [
+      "Laundry",
+      "Bike Room",
+      "Elevator",
+      "Single Gender Floors",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "adirondack97",
+    "buildingName": "International House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "The International House is located at 97 Adirondack View, across from the townhouses. The students that live in this house ' strive to live intentionally in a diverse, mindful, and inclusive community'. There are 4 singles, 2 doubles, and a kitchen with a living room on the first floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=11h5frEqLghTETh_KtgSYYps3Combqv_P",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=12H_zY6TbANJOGNcKtcFDQs2atI3QEB_Q",
+      "https://drive.google.com/uc?export=view&id=1vqOWJW4dJWV1QGi4ESrblu9uVm93ZNZZ"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "adirondack",
+    "buildingName": "Adirondack House",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Adirondack House is located in the center of campus, in between Ross and Proctor Dining Halls. It has the large Coltrane Lounge on the first floor and two floors of both singles and doubles.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1d7UtyUpIPQJ6gFHWoowmKXT_4kk5lOxz",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1ztHXKhF52RJUa4Umqil6dkJrUxdZ8EGr",
+      "https://drive.google.com/uc?export=view&id=18m0b1pGpK9VFMAXGzAw7E4niHe6UyQ1X"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "adriondack20",
+    "buildingName": "Japanese House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "The Japanese House is located at 20 Adirondack View, on the corner of College Street and Adirondack View. It has 4 singles and a double with a kitchen and living/dining area on the first floor. Students that live in the Japanese House take a pledge to speak only Japanese.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1TsSLxiTdLbpnbmeTxIvT3mLnG3f0egMR",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1tcRB3tAhzTk8MlX4g-XlVeyV7-cZXREy",
+      "https://drive.google.com/uc?export=view&id=1XX94NT-SwIdUwu7NJSafF3Z7PDIbsPki"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "adirondack99",
+    "buildingName": "99 Adirondack View",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "This house, for juniors and seniors, is an option for those looking to live in a small house with friends. The house has an extremely convenient location behind Proctor Dining Hall and room for seven students in three singles and two doubles. The house also has a living room and kitchen, as well as a screened-in porch, perfect for Vermont fall and spring evenings.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1LIQHL72Q5KOAomw1H0tXPzoORWskAVzE",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1WWmo4kZ_ghqXIrLncB0sxIEcrAz7Avn3",
+      "https://drive.google.com/uc?export=view&id=1Wag4LrFIlglb9X2FCpU4ZSM1HRRGSosA"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "atwaterA",
+    "buildingName": "Atwater Suites A",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4", "floor 5"],
+    "overview": "Atwater houses mostly seniors and some juniors. Atwater A has suites with 4 singles, a common room and a kitchen. There are also a few singles outside of suites. Atwater A also has a classroom and a laundry room on the bottom floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1-vN_LF2vJcLnsHLxjGaubA8zAea9msTR",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1y0JLXGZJbg8Q0geAsciLppyF14yHrqQq",
+      "https://drive.google.com/uc?export=view&id=1enCyRLbQoQBfjUxjZnYqlDd4Wy6d_92O",
+      "https://drive.google.com/uc?export=view&id=1fD-HJBJUBGIVrpNbt8XfTJ1zDqn94s0O",
+      "https://drive.google.com/uc?export=view&id=1ZXvX2cFadmzkh1a3CDiou9jNcM2oCbpV",
+      "https://drive.google.com/uc?export=view&id=1AB_rkmh0nDz6c-ZRfU3HXfe1DHTaJFGW"
+    ],
+    "tags": [
+      "Laundry",
+      "Parking",
+      "Dining Hall",
+      "Bike Room",
+      "Elevator",
+      "Suites"
+    ]
+  },
+  {
+    "buildingID": "atwaterB",
+    "buildingName": "Atwater B Suites",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4"],
+    "overview": "Atwater houses mostly seniors and some juniors. Atwater B has suites with 4 or 5 singles, a common room and a kitchen. Atwater B also has a library on the bottom floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1jBm2983NGK75ZpB4Bel_A8mr8mhWxduP",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=13gFhViIYllIF8CdG_m2DlOV0ybZbsGhA",
+      "https://drive.google.com/uc?export=view&id=1UGY7c3pHnUTSIDZRx0Nk5pzFJkGQTtC-",
+      "https://drive.google.com/uc?export=view&id=1p1yeyib-6pSLB34TOKHom9LVeWfyIMuA",
+      "https://drive.google.com/uc?export=view&id=16OafgG34TCoxb8-kXBDO-Ht-XY_fsC-v"
+    ],
+    "tags": [
+      "Laundry",
+      "Parking",
+      "Dining Hall",
+      "Bike Room",
+      "Elevator",
+      "Suites"
+    ]
+  },
+  {
+    "buildingID": "battell",
+    "buildingName": "Battell Hall",
+    "buildingCategory": "1st",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4"],
+    "overview": "Battell Hall is the biggest first year dorm, and it is located in the center of campus. Battell is made up of mostly doubles, but there are also a few singles and triples. Battell features bathtubs and many small lounge spaces. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1eRwenboAvSLVPBrLX5aLyoj8CoryLFyM",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1SKlFqCq46lxY8gf33AUKrRIKNJ07DFXB",
+      "https://drive.google.com/uc?export=view&id=1-DL9wMkXJDpus6ydZOc3lLVACx094lEI",
+      "https://drive.google.com/uc?export=view&id=1m50fmvGckZwDHtUkzdmtXT8JbsDl4UdU",
+      "https://drive.google.com/uc?export=view&id=1U5DPvX2GAUbDiP7hXDcaYVHVtuli58Uu"
+    ],
+    "tags": ["Laundry", "Bike Room", "Single Gender Floors", "Kitchen"]
+  },
+  {
+    "buildingID": "bowker",
+    "buildingName": "Xenia House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2", "floor 3"],
+    "overview": "Bowker is a small house and is the home of Xenia House, which is a social house for students who would like to live in a substance-free community. It is located on Adirondack View road, near the townhouses, and has singles and two-room doubles.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1QR917pbkwPQZb-_0xd5UDi_Si0q5XYeF",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1AEN7l4arJPy2hVmIbEEUj42rhYm9cYnJ",
+      "https://drive.google.com/uc?export=view&id=1Ivq7Ckifd4B70IbvdyuizQ-m0L66cxz_",
+      "https://drive.google.com/uc?export=view&id=1l__h58bmYGkwwbaUiflAwq6nx_hQ7qlQ"
+    ],
+    "tags": ["Laundry", "Parking", "Elevator", "Kitchen"]
+  },
+  {
+    "buildingID": "brackett",
+    "buildingName": "Tavern",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Brackett House is the home of Tavern social house. It has singles and 4 doubles, with a large basement space, laundry, and a communal kitchen with a dining area. Brackett is located near the townhouses.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1LUGnwJSpxVNn5Pibi5W41cswiJa77ypo",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1pE5S0DMGURwgvYmVHSLXyb6OFplkJXVU",
+      "https://drive.google.com/uc?export=view&id=157CjmHGalhyY4bRqdocgp194MTx2uudE"
+    ],
+    "tags": ["Laundry", "Parking", "Dining Hall", "Elevator", "Kitchen"]
+  },
+  {
+    "buildingID": "brooker",
+    "buildingName": "Outdoor Interest",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Brooker is the Outdoor Interest house. Located on the western side of campus near the other social houses, it is in a quiet, wooded area. It has both singles and doubles.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1QuU6hxZ3_OmBhSr6Hba5deauZyhIeK_8",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1Lv4b5WeHACUISF1XEbzViRabOfXRaBNk",
+      "https://drive.google.com/uc?export=view&id=1uY38BAmGFptPXwb-QTCOw0Japbu0a71T"
+    ],
+    "tags": ["Laundry", "Parking", "Elevator", "Kitchen"]
+  },
+  {
+    "buildingID": "chapel20",
+    "buildingName": "20 Old Chapel Road",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Old Chapel is one of the oldest buildings on campus. It is an administration and classroom building in the center of campus with 7 singles and 2 doubles.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1b6To7YChDbXm1_ZlTjLkBx8hW6AtwMQa",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=17AFK9eJcEOCDlcAYENVH_vdpkg9L-Yp1",
+      "https://drive.google.com/uc?export=view&id=1g5Y7CqfwgULVtkxteCHFJiJyWbRdb1f-"
+    ],
+    "tags": ["Laundry", "Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "chateau",
+    "buildingName": "Le Chateau",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Le Chateau is the French department building and it has singles and doubles on the top two floors. It is one of the most unique buildings on campus, and it was designed to look like a French chateau. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1i5X609d3H3Tl11Aw3944TBoJXggpxVU3",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=19qz3McGLbpiUskwA4EMzrWtc0SButSkx",
+      "https://drive.google.com/uc?export=view&id=19okIEFQDBs3J0N51eenBaG3WysgZEvtW"
+    ],
+    "tags": ["Dining Hall", "Kitchen"]
+  },
+  {
+    "buildingID": "college236",
+    "buildingName": "Portuguese House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4"],
+    "overview": "The Portuguese House is located at 236 College Street, which is on the corner of College Street and Shannon Street, on the eastern side of campus. It has 3 singles on the second floor and a closed porch, a kitchen, a living area, a dining room, and a foyer on the first floor. Students that live in the Portuguese House take a pledge to speak only Portuguese.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=19og2C8jPvmSr398mn3MtqSlfHciGFL3U",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=14JeuFTiPgCg61pacpzVin4klheqsdgvm",
+      "https://drive.google.com/uc?export=view&id=1sIny-XZt9CeZA1epzoMm77HlE8MET3qg",
+      "https://drive.google.com/uc?export=view&id=1bgeikvEoxYgEmzW0aQVxvjMPnVee_jwz",
+      "https://drive.google.com/uc?export=view&id=18MoAGWSlAz5pqTTDf2E11a3T5HKexstT"
+    ],
+    "tags": ["Laundry", "Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "college248",
+    "buildingName": "248 College Street",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "This house is a small 3-person house located on the corner of College and Shannon Streets. It has a kitchen and 3 singles.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1dRG4I9Y3SsXiCwxAfa8yHtXC-QirSpQj",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=16Y21Iktmuj5tHeNANdhxXTnqD8c9AW74",
+      "https://drive.google.com/uc?export=view&id=1h85hkG71xSF9lBgr79tCtBNgiGz1A79W"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "college637",
+    "buildingName": "Russian House",
+    "buildingCategory": "special",
+    "floors": ["floor 1"],
+    "overview": "The Russian House is located at 637 College Street, on the west side of campus. It has a double and 3 singles with a kitchen, living area, dining area, and rec room. Students that live in the Russian House take a pledge to speak only Russian.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1z545oo4k3MhGE28BhCsHAuA2GmhUu3TQ",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1p-MPrM15nioAuQMiKytGv7PgM80WYewL"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "deanery",
+    "buildingName": "German House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2", "floor 3"],
+    "overview": "Deanery is the German House, located on College Street near Shiretown Market. It has singles and doubles, a kitchen, lounge, and dining area. Students who live in this house take a pledge to speak only German.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1qGP44yJ8DbR41IvlM8bgapDx8Syxzaj6",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1zelFHjevTL_jLg-IZuFh-0JUe0_llExv",
+      "https://drive.google.com/uc?export=view&id=15qWUvevDrTjKmGK4gDimIfPK0RdmfnYJ",
+      "https://drive.google.com/uc?export=view&id=1hyfeAkOizpZMc9JEvmMet5mNsXavTRAW"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "franklin51",
+    "buildingName": "French House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "The French House is located at 51 Franklin Street, behind Davis Family Library and near other language houses. It has 9 singles and a large kitchen and living area on the first floor. Students that live in the French House take a pledge to speak only French.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1hbGLFHaKOVH5cz6ghIDnZgugOJ8UFo0_",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1t2MiCX9iS9gGKNLS5NQdmfe_nCsK1GyL",
+      "https://drive.google.com/uc?export=view&id=1465j4cp-6y1XQ9alf1vZUQ6Ve1IMCfOM"
+    ],
+    "tags": ["Laundry", "Kitchen"]
+  },
+  {
+    "buildingID": "hadley",
+    "buildingName": "Hadley Hall",
+    "buildingCategory": "2nd",
+    "floors": [
+      "floor 1",
+      "floor 2",
+      "floor 3",
+      "floor 4",
+      "floor 5",
+      "floor 6"
+    ],
+    "overview": "Hadley is part of the Ross building. Each floor has 2 suites with 3 doubles and singles on the other side of the hall. There is laundry in the basement.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1RinQFAETxijD9PW6WBG9mxWcqHbqVGE6",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1KKRMHfDzrh2VUP2XVZY4tas3CRp9_RCo",
+      "https://drive.google.com/uc?export=view&id=1WhXsAl360FoyHqGjmUdoINocc-qaAZUD",
+      "https://drive.google.com/uc?export=view&id=1MXU1HP35MuL_pvlc1-KfRddDsBYAPfHQ",
+      "https://drive.google.com/uc?export=view&id=1eLTV7WFAqMA4ab7mpHUV4g1XBxK02i0D",
+      "https://drive.google.com/uc?export=view&id=1oh8Era6Zaeu6fd4cp0ONlcQn3c1vw3ST",
+      "https://drive.google.com/uc?export=view&id=1O3LEmsVS81ml5MMrEdNDx69nuMjzpFcb"
+    ],
+    "tags": [
+      "Laundry",
+      "Dining Hall",
+      "Bike Room",
+      "Elevator",
+      "Suites",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "hepburn",
+    "buildingName": "Hepburn Hall",
+    "buildingCategory": "1st",
+    "floors": [
+      "floor 1",
+      "floor 2",
+      "floor 3",
+      "floor 4",
+      "floor 5",
+      "floor 6"
+    ],
+    "overview": "Hepburn is a freshman dorm located on the south side of campus. It has singles and doubles. Hepburn also houses the performing space known as 'the zoo' and the Middlebury Campus offices in the basement. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1oa628dZOfR2YuEageC2hVcma1ZffU-nY",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1i7rr49-6A2Gwe5NoBZRkwKEDunUQT9o4",
+      "https://drive.google.com/uc?export=view&id=16asWOBA1IXi9GREPUDSoo10xJdJAlIdH",
+      "https://drive.google.com/uc?export=view&id=1oqvB8VAy7doDtubAG0oubzj31WpWMQLx",
+      "https://drive.google.com/uc?export=view&id=1MpvZP_FRSXnB3ErQL6ay0C0ZGscVCFIT",
+      "https://drive.google.com/uc?export=view&id=1o39qrNFMyPwoyxcUguOs0yLH05WcGgiQ",
+      "https://drive.google.com/uc?export=view&id=1v44SYGtxPvsIKNciauHgU5VnvcsRxcY2"
+    ],
+    "tags": ["Laundry", "Bike Room", "Elevator"]
+  },
+  {
+    "buildingID": "hillcrest70",
+    "buildingName": "Queer Studies House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "The Queer Studies House is located at 70 Hillcrest Road, behind Proctor Dining Hall. The house is described as a 'vibrant living space for students of all gender and sexual identities.' There are 5 singles and a kitchen with a living/dining area on the first floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1YloRMk5WfwM8nqhmdKJSZBWFsiJTsHOC",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1PNNVkDl8MTAqT3y0nYnKp5GaasyE1akS",
+      "https://drive.google.com/uc?export=view&id=1ImI82-yJWvm-YFFOxR0iOIbvROXLevf2"
+    ],
+    "tags": ["Kitchen"]
+  },
+  {
+    "buildingID": "homerHarris",
+    "buildingName": "Homer Harris House",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "From the porch of Homer Harris, watching the sun set over the Knoll and solar array, a student could be forgiven for thinking they were in a Vermont farmhouse rather than a college dorm. This building houses upperclassmen and has a large yard, expansive porch, and parking lot. Inside the house, six students share the two singles, two doubles, living room, dining room, common area, and kitchen.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1yaWbqH2O5ZNh1wgMwVwRh3OKKJl4cOGg",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=124aN70cozwwsc9QNBFxBkih7IR4KBnvt",
+      "https://drive.google.com/uc?export=view&id=1bhS_EceoET3584b7eJOCxcXpezvHcEad"
+    ],
+    "tags": ["Parking", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "homestead",
+    "buildingName": "Homestead House",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Homestead House has  five singles, five doubles, living room, kitchen, common room, dining room, and sun porch. It is located on Weybridge Street, on the northeast side of campus. The house also has its own driveway and nearby Mill Street makes a great shortcut into downtown Middlebury.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1KXNL_ynTN015CFmanOoniXwCycV6p9Fw",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1am58aupwdA3uCJ4OKtAhL_dJNQpj-05W",
+      "https://drive.google.com/uc?export=view&id=1Ny0QiXTJ70XRUd86Z6jZTdanGv3MGPYR"
+    ],
+    "tags": []
+  },
+  {
+    "buildingID": "insite",
+    "buildingName": "Insite Sustainable Living",
+    "buildingCategory": "special",
+    "floors": ["floor 1"],
+    "overview": "InSite offers two students a unique opportunity to live in the house Middlebury's Solar Decathlon Team entered into the national Solar Decathlon competition in 2013. The competition challenges college students to create sustainable and high-quality housing that mitigates climate change. InSite placed eighth overall in the 2013 U.S. Department of Energy Solar Decathlon, and third in the communications and affordability contests. The project took two years of student design, planning, and building before competition. Afterward, the team shipped InSite back to campus and the College made it into student housing. The house utilizes sustainable features like reclaimed wood, a powerful solar system, and a green roof that sequesters carbon and controls run off. Students who live in InSite are expected to give tours of the house and are even given a budget to host events promoting the house.",
+    "buildingPhotoLink": "",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1sTMVlMxxSsf_vU03FpHkyNhZbRTO87wZ"
+    ],
+    "tags": ["Kitchen"]
+  },
+  {
+    "buildingID": "jewett",
+    "buildingName": "Jewett House",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Twelve students live in Jewett House across four singles and four doubles. The quaint house is located on the edge of campus on South Main Street and has a lounge and kitchen perfect for event hosting.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1QR8YndZfeJ4pN3aEEYkzlyTra6igATA-",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1SnlOWzDzDvxOKGK38BzwxDBh04C_38Dv",
+      "https://drive.google.com/uc?export=view&id=1__D_oKOBPtNGvWjeGzzDDJ3SYJ7C7ADX"
+    ],
+    "tags": ["Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "kelly",
+    "buildingName": "Kelly Hall",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4", "floor 5"],
+    "overview": "Kelly is part of the Ross building. It has suites and singles and normally houses juniors and seniors.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1pNJd9AN1b9QBFceS9X29XR3_Qo8Xs8fV",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=109WT0s0SI6-KqcfoHDbVUSN3Pa32EF39",
+      "https://drive.google.com/uc?export=view&id=1ONYyB_Xs5x7l5bcDJWSJ4YADzYlxjizz",
+      "https://drive.google.com/uc?export=view&id=1ACLv5_FHIS9Uxee4JMHAR0a44ApgqzX4",
+      "https://drive.google.com/uc?export=view&id=1KV-ZHO5vxoZmk9_zbHTB40Rfsybu53_e",
+      "https://drive.google.com/uc?export=view&id=1LfdeVDsS2OruFE4AfRLuId4DnMz0R3F8"
+    ],
+    "tags": [
+      "Laundry",
+      "Dining Hall",
+      "Bike Room",
+      "Elevator",
+      "Suites",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "laForce",
+    "buildingName": "La Force",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4", "floor 5"],
+    "overview": "La Force is part of the Ross building complex. It has suites with 4 singles, a common area, and a kitchen, and it has individual singles on the top floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=14Kl6rXFPAW7ExRrjFGV2hGBwjsazorgW",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1tOeCqXpZnqAxzUFjYJETlqaFO8Tw4ml5",
+      "https://drive.google.com/uc?export=view&id=1Su0a_B-FNmJe4rH7IH52TGlKUFbbNiEG",
+      "https://drive.google.com/uc?export=view&id=1MDOn3WNGDvjGqcM5Wxtag9jYZCE9xWIv",
+      "https://drive.google.com/uc?export=view&id=1WJ8jo0wXsovCd67n4qjJVX7GxOqEIIsI",
+      "https://drive.google.com/uc?export=view&id=10KjuAHDYxGlOIaFUARx8LhiCy0bNorD9"
+    ],
+    "tags": ["Dining Hall", "Elevator", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "lang",
+    "buildingName": "Lang Hall",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4"],
+    "overview": "Lang is part of the Ross building. It has suites and singles and normally houses juniors and seniors.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1hWweONtdV6I_Be5wWa0of4CI1mFGwYiG",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=17AhyL9RMhXbtBmu7NS9QLZtrs3X8A21-",
+      "https://drive.google.com/uc?export=view&id=1uYkU43-msZLsjoNBIcuCAM8u0TMVzTsb",
+      "https://drive.google.com/uc?export=view&id=1D2m0YfbzFPa9PjQtIP0nmurcbq9R1RIJ",
+      "https://drive.google.com/uc?export=view&id=164HMcknF6O23s_1zr9XjWiDjVf9Urav9"
+    ],
+    "tags": [
+      "Laundry",
+      "Dining Hall",
+      "Bike Room",
+      "Elevator",
+      "Suites",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "longwell",
+    "buildingName": "Italian House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Longwell is the Italian House. It is located behind Proctor Dining Hall and has 6 singles, a kitchen, and a dining area. Students that live in the Italian House take a pledge to speak only Italian.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1-6FBxmmerx6JexLbkmuRp9rxqjivCYZt",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=122x9tWh6jStCQzxX-QafkRaWeSRq2iJf",
+      "https://drive.google.com/uc?export=view&id=1hD2dwIkQ2HGRobUUQO_OfPC1Zs7Ni3K3"
+    ],
+    "tags": ["Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "main135",
+    "buildingName": "Hathaway House",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Hathaway House is located on South Main Street, near the Mahaney Arts Center Parking Lot. It has 5 singles and a double and a large lounge area on the first floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1O61TsRkbEcNqpxyo8hUV-_82E0tuz_Sg",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=13caobK05-G5_7BgdAnfMoVAu-EOArigQ",
+      "https://drive.google.com/uc?export=view&id=1jseXq6fNpJTztx2R9pQElmgqOgJhrr0m"
+    ],
+    "tags": ["Parking", "Suites"]
+  },
+  {
+    "buildingID": "meeker",
+    "buildingName": "Intentional Living House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2", "floor 3"],
+    "overview": "Many students love this house for its proximity to the athletic facility and Mahaney Arts Center, and the fun layout of some of its attic rooms. Students live in 14 singles and two doubles, and make use of the kitchen, dining room, basement, lounge, and multiple common rooms, including the large space on the ground floor perfect for hosting events and parties.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=19VcWV-SB9Mn-GT4ASuWvMIobO2FXWUCI",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1FBW5WCPfC7qD0om1qX3qxdr_N0dhK1qh",
+      "https://drive.google.com/uc?export=view&id=1UGVfFlAUmAobonZIF61hBo8iPRxYKhI2",
+      "https://drive.google.com/uc?export=view&id=1SOCBe0TM_C3voSM-dDrTB5w-rzBqAB6X"
+    ],
+    "tags": ["Parking", "Elevator"]
+  },
+  {
+    "buildingID": "mill",
+    "buildingName": "The Mill",
+    "buildingCategory": "The Mill is a social house located on South Main Street. It has both doubles and singles and a basement space. There is also a kitchen, living space, and lounge.",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "The Mill is a social house with a focus on music and culture. Members regularly host parties and shows, including visiting DJs and bands. Students live in six singles and two doubles and make frequent use of the living room, dining room, recreation room, kitchen, and social area to host events that all students are welcome to attend. The building is located amongst a mix of College and community buildings only a 10-minute walk from the middle of campus, and, in the other direction, a short walk to downtown Middlebury.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1MEbJYD7lwKr97-vApukzH70XcHE9YlD-",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1r2SwlLbQsfZ1_EzA45TXMoqTzSj1F1kf",
+      "https://drive.google.com/uc?export=view&id=1CkghlIhub3ISHx34iUzeih6sN6z5dYdx"
+    ],
+    "tags": ["Kitchen"]
+  },
+  {
+    "buildingID": "millikin",
+    "buildingName": "Millikin Hall",
+    "buildingCategory": "2nd",
+    "floors": [
+      "floor 1",
+      "floor 2",
+      "floor 3",
+      "floor 4",
+      "floor 5",
+      "floor 6",
+      "floor 7"
+    ],
+    "overview": "Millikin is sophomore housing and is part of the Ross building. It has suites with 3 doubles and it has individual singles across the hall from suites. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1fmOn4H6fJD9UNZT0t7pYz7VaCSNdBc8W",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1PCeiLgFo1luPw45VuhnDBB7hVRxRx3pa",
+      "https://drive.google.com/uc?export=view&id=1TrNuo2xIJCDKt8wawkGgPPpCrMSCjB5d",
+      "https://drive.google.com/uc?export=view&id=1qzjMGUGAEiZiliszitI6Y0Md4CMlZnJY",
+      "https://drive.google.com/uc?export=view&id=104Pa4D1B2I9aVtL4yj18tpgynfFeIYy4",
+      "https://drive.google.com/uc?export=view&id=1xJDlCXMU2JT7Fs3YfJNLTEXNhmVkRaH2",
+      "https://drive.google.com/uc?export=view&id=1rjdv5PdzqaUo8DBzSqj0tCnUQgNidsK-",
+      "https://drive.google.com/uc?export=view&id=1C1n1BF17b94z0K3LCGEpuOIjnAUuncw3"
+    ],
+    "tags": [
+      "Laundry",
+      "Dining Hall",
+      "Bike Room",
+      "Elevator",
+      "Suites",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "munford",
+    "buildingName": "Munford House",
+    "buildingCategory": "special",
+    "floors": ["basement", "floor 1", "floor 2", "floor 3"],
+    "overview": "Munford is located on South Main Street near the Mahaney Arts Center. It has mostly singles and a few doubles, and houses juniors and seniors.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1-J2QF57Oi5WlQ7MfYN_9kIhDIn5qOTyt",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1im_CTwenZ8ZAsGFGorqOk8t-FV_evED2",
+      "https://drive.google.com/uc?export=view&id=19RG59wFbOp2Y5FsDyynBGrHs_D2-EtXH",
+      "https://drive.google.com/uc?export=view&id=1eGhhnO2mxa5jZo29ynRxwnp4iwdzQ8ec",
+      "https://drive.google.com/uc?export=view&id=1PFGxq6KJEaj2HagaarZdTge3I3E7GpBr"
+    ],
+    "tags": ["Laundry", "Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "painter",
+    "buildingName": "Painter Hall",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2", "floor 3", "floor 4"],
+    "overview": "Painter is one of the oldest dorms on campus. Painter usually houses juniors, and it has singles and two-room doubles. There is a laundry room in the basement of Painter and a kitchen. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1t06GiCU1cAYcpps3zc0pMZZzcmg5pLdA",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1Za7h_MAIPk404eERybBGQkS2g3uTybGW",
+      "https://drive.google.com/uc?export=view&id=17S7w0gK1jQOhMH49GA-z2fAMlePwZSva",
+      "https://drive.google.com/uc?export=view&id=15Cm6S5nzYeopX2RAF2KHzXDP14f10xPd",
+      "https://drive.google.com/uc?export=view&id=1Jvc82WkFn6OPMPJFPzIlzusSVe0xiDBr"
+    ],
+    "tags": ["Laundry"]
+  },
+  {
+    "buildingID": "palmer",
+    "buildingName": "PALANA",
+    "buildingCategory": "special",
+    "floors": ["basement", "floor 1", "floor 2"],
+    "overview": "Palmer houses the PALANA social house, which is the intercultural social house. It is located on the south side of campus near the townhouses. Palmer has singles and doubles and a large space in the basement.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1pHngLkepqYcCr8MNx3hZsgTjPE50Gs7j",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1e2F0B-wNyQ3Okn8An9l3cZFRPclqlqkZ",
+      "https://drive.google.com/uc?export=view&id=15pIPDdfsXl3lUhJzEMtRvISmSDuu1SC4",
+      "https://drive.google.com/uc?export=view&id=1haWi0VxDYFITBhJDUjuu_8j8MR0CwMGM"
+    ],
+    "tags": ["Laundry", "Elevator", "Kitchen"]
+  },
+  {
+    "buildingID": "pearsons",
+    "buildingName": "Pearsons Hall",
+    "buildingCategory": "2nd",
+    "floors": ["basement", "floor 1", "floor 2", "floor 3", "floor 4"],
+    "overview": "Pearsons is a sophomore dorm building located next to the Ross building complex. There are 2-room doubles in the basement, and doubles, triples, and singles on the upper floors. There is also a lounge and a classroom.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1ykI_4vunw1HzyyFBoQk89yV3KvLyUkqa",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1oHKd_ps9tfrWShzMxiB6lk3uwl7-vaxt",
+      "https://drive.google.com/uc?export=view&id=1wf5Uul3oYXGI8GeZVQLy72lHp27uaE8L",
+      "https://drive.google.com/uc?export=view&id=1ZxXGistKipLVLLTGMo-FrWGSM1JjVN1t",
+      "https://drive.google.com/uc?export=view&id=18SW1CccLBTqbqohB2a_FfNyEyHbpnz_v",
+      "https://drive.google.com/uc?export=view&id=1dYZRnpLOaIpP09xfGVJEjDZpJ5QoDYw3"
+    ],
+    "tags": ["Dining Hall", "Kitchen"]
+  },
+  {
+    "buildingID": "perkins",
+    "buildingName": "Spanish House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2", "floor 3"],
+    "overview": "Perkins is the Spanish House, and it is located on Hillcrest Road near Proctor Dining Hall. It has 10 singles and a kitchen with a dining area on the bottom floor. Students who live in the Spanish House take a pledge to speak only Spanish.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1leMvKOgkFWTyUEK0Wn2pkXzNfXmqgofv",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1-Lloqh4Q5TyudNrAiavAcg_ulPzWOi8E",
+      "https://drive.google.com/uc?export=view&id=1QPjB-RiYj08r5L40pb_3yRwWGUcov6k7",
+      "https://drive.google.com/uc?export=view&id=1uKTFgeRkEF3sRAnCzbEkH7JG5iZ6BRMQ"
+    ],
+    "tags": ["Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "porter",
+    "buildingName": "Interfaith House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2", "floor 3"],
+    "overview": "Porter House, the Interfaith House, is located on Porter Field Road next to the Mahaney Arts Center parking lot. It has 3 floors of singles and a kitchen/living room on the first floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1Av4bCR7nuMWy9nK9L6ZRzdh_y0YEl_p5",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1shmIJVaGADzCyqF3a1Pgy9rtJ0-sbsnE",
+      "https://drive.google.com/uc?export=view&id=1JJuZ2SFWvjZWe_892DLWGl266BwTfKNt",
+      "https://drive.google.com/uc?export=view&id=1SaEunqog3Jo4cDPsE4hIMCwFgKnl3-dt"
+    ],
+    "tags": ["Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "prescott",
+    "buildingName": "Chromatic",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Prescott houses Chromatic social house, which is focused on fostering a social community for artists of all types on campus. It is located near the townhouses on the south side of campus and has singles, doubles, and a large space in the basement.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1wVP5Kv_r7TpIuvzY1uGCxjlmopxsueze",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=12Ro8q9XRX4ny7o2uiZJTlJ_R-k-7q4G7",
+      "https://drive.google.com/uc?export=view&id=1elnybqDO898PQeQFgHbc9XQVoJGHlbGZ"
+    ],
+    "tags": ["Elevator"]
+  },
+  {
+    "buildingID": "ridgeline",
+    "buildingName": "Ridgeline Suites",
+    "buildingCategory": "upper",
+    "floors": ["basement", "floor 1", "floor 2"],
+    "overview": "Ridgeline Suites are a junior/senior dorm that usually houses mostly seniors. Ridgeline has 3- and 4-person suites with singles and common spaces. There is a communal kitchen and laundry room in the building.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1jWhyXv-A2N7z3s1yVzmeJjcImn6d5H9h",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1U2QYYTZ0cXhMisiQfA-77Aw03b7QJD9Z",
+      "https://drive.google.com/uc?export=view&id=1ZoMi3uVtmSztX4WxwwPjvZ6oibwcKIEF",
+      "https://drive.google.com/uc?export=view&id=1sJYQr2vn22H-lSUKv-81AprkyuG9Oh9Q"
+    ],
+    "tags": ["Laundry", "Parking", "Bike Room", "Elevator", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "rossTower",
+    "buildingName": "Ross Tower",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "The Ross Tower is part of the Ross building, and has suites with singles. Ross Tower normally houses mostly seniors and the suites have living areas, kitchens, and two floors.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1QK75x75oOB9N-apemZ1BMf6aArHsvwaK",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1XIFD2umT3qW_ITmqn3P_82jcmgnMX9E6",
+      "https://drive.google.com/uc?export=view&id=1Mj9J542Bt6Ckg0Vf67QF1LpEoveOl3uP"
+    ],
+    "tags": [
+      "Laundry",
+      "Dining Hall",
+      "Bike Room",
+      "Elevator",
+      "Suites",
+      "Kitchen"
+    ]
+  },
+  {
+    "buildingID": "selfReliance",
+    "buildingName": "Self Reliance House",
+    "buildingCategory": "special",
+    "floors": ["floor 1"],
+    "overview": "Self-Reliance offers three students a unique opportunity to live, for a full year, in the first house Middlebury’s Solar Decathlon Team entered into the national Solar Decathlon competition. The competition challenges college students to create sustainable and high-quality housing that mitigates climate change. Self-Reliance placed fourth overall in the 2011 U.S. Department of Energy Solar Decathlon and first in the market appeal, communications, and home entertainment contests. The house resembles a Vermont farmhouse but utilizes features like sustainably harvested wood from local forests, recycled insulation, and triple-paned windows, as well as an impressive sound system for entertaining.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1iA9PIg4WNUxDD94cEDFvX87QJnuknw0p",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1Y3J8npefgbdBNjo4SscQ3U4ITfNuwyUS"
+    ],
+    "tags": ["Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "shannon107",
+    "buildingName": "107 Shannon Street",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "107 Shannon is a small house with 8 singles, located on Shannon Street near Atwater Dining Hall. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=18zU6HdXA8sB7Ut4vK2r5GtBAmxA5P_JC",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1cUkAbkKa0AYXVX_EH-F5Fc84dRtQek8g",
+      "https://drive.google.com/uc?export=view&id=1z_N7KfaULfJ8UkR_GH8mVE8Tf6lxmmln"
+    ],
+    "tags": ["Laundry", "Parking", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "south48",
+    "buildingName": "48 South Street",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2", "floor 3"],
+    "overview": "This house was once home to Kappa Delta Rho, a national fraternity founded at Middlebury. Today, it serves as upperclassmen housing on the edge of campus near the Dragone Track and Field Complex. While the building is about a 10-minute walk from the main campus and has 9 singles and 4 doubles. The spacious house has a living room, recreational room, dining room, kitchen, basement, expansive porch, laundry facilities, and its own parking lot.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=149uLwueIRZAJhwkZXNx1ndEMBV5VdSTo",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1MJuXMdOL2pwKUc7Azosav5CnGISZbNFL",
+      "https://drive.google.com/uc?export=view&id=1QET3nQa52GDHdr4VqROORpdyo4JnTOYp",
+      "https://drive.google.com/uc?export=view&id=10KBoNMnWbBVWKVIiEDRJNz4bPW3TNlH-"
+    ],
+    "tags": ["Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "southmain108",
+    "buildingName": "Chinese House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "The Chinese House is located at 108 South Main Street. It has 9 singles, a small kitchen, and a living/dining area. Students that live in the Chinese House take a pledge to speak only Chinese.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=19GrMpRsTsu-bXBvE0mzjvrBewaQ0r8bG",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1_rxe0tfY8Q-ZYG_m5JCjLGDLni60yE3S",
+      "https://drive.google.com/uc?export=view&id=1CvuwoTuds_eum4obPBCBhEl7I3b7_9QP"
+    ],
+    "tags": ["Parking"]
+  },
+  {
+    "buildingID": "southmain118",
+    "buildingName": "118 South Main Street",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "This small house is located behind Davis Family Library. It has 2 floors with both singles and doubles, and a large common room on the first floor.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1Cp271bmdfkqRA43Gu--O0juAfDOZRnom",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1mnU5disOJF4Arvp4Xtk3VbV7-ykhV21V",
+      "https://drive.google.com/uc?export=view&id=1rUr0uaMfLLwX0bcEpQKVCkS8vihGrjwj"
+    ],
+    "tags": ["Parking"]
+  },
+  {
+    "buildingID": "sperry",
+    "buildingName": "Arabic House",
+    "buildingCategory": "special",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Sperry is the Arabic House, and it is located on Franklin Street near Davis Family Library and some of the other language houses. Sperry has 6 singles and a kitchen with a dining area. Students that live in the Arabic House take a pledge to speak only Arabic. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=1wq9nUCINuRlshBFRVVRY79TX8lI5YxnT",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1wlQVIUnI8w5KvzLjdmuMcJI1fKaKpATt",
+      "https://drive.google.com/uc?export=view&id=1lOXuYwtGn5RTbnzbD7hXyT463BshiS_F"
+    ],
+    "tags": ["Parking", "Kitchen"]
+  },
+  {
+    "buildingID": "townhouseC",
+    "buildingName": "Townhouse Center",
+    "buildingCategory": "upper",
+    "floors": ["basement", "floor 1", "floor 2"],
+    "overview": "The townhouses are 8-person small houses with singles. There are three floors with a kitchen, living space, and laundry room.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=12tEulp4MT9I-lmWY9hkQNNKw6vYlsPq5",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1RTQX-z8noytkn1FVwjevCxi1vXZnt2An",
+      "https://drive.google.com/uc?export=view&id=1dXyzFcaa7W6f-ySAb2ko4z0bmG5X0EKt",
+      "https://drive.google.com/uc?export=view&id=1tBZJciCwBQzxchJafxd3-F4ffRxvDRsI"
+    ],
+    "tags": ["Laundry", "Parking", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "townhouseN",
+    "buildingName": "Townhouse North",
+    "buildingCategory": "upper",
+    "floors": ["basement", "floor 1", "floor 2"],
+    "overview": "The townhouses are 8-person small houses with singles. There are three floors with a kitchen, living space, and laundry room. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=12tEulp4MT9I-lmWY9hkQNNKw6vYlsPq5",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1dSgmtP_bNZcntgnOFXw5YAcC9ZIWBB1J",
+      "https://drive.google.com/uc?export=view&id=1qW5V7n7izS-lfoMFiJbsTz5_Cn0NnEmv",
+      "https://drive.google.com/uc?export=view&id=1kn8zxObsXyH6r-elTznsSdCGfGkXfvyn"
+    ],
+    "tags": ["Laundry", "Parking", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "townhouseS",
+    "buildingName": "Townhouse South",
+    "buildingCategory": "upper",
+    "floors": ["basement", "floor 1", "floor 2"],
+    "overview": "The townhouses are 8-person small houses with singles. There are three floors with a kitchen, living space, and laundry room. ",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=12tEulp4MT9I-lmWY9hkQNNKw6vYlsPq5",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1L-gGp8xjiHtifUYKeEBB1IJB4JS98iPN",
+      "https://drive.google.com/uc?export=view&id=1byzIdSiuS_ZUsL6MZtnhINkm-3d-pXnO",
+      "https://drive.google.com/uc?export=view&id=1INgqlYunRT9YWebxbM7hE_Z9h4j7w-1E"
+    ],
+    "tags": ["Laundry", "Parking", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "turner",
+    "buildingName": "Turner House",
+    "buildingCategory": "upper",
+    "floors": ["floor 1", "floor 2"],
+    "overview": "Students living on the edge of campus in Turner House are only a short walk away from the Knoll. With a spare five minutes, days can start and end sitting at the campus farm, watching the sun rise or set. Six students share this desirable house in six singles, with a communal kitchen, living room, and storage room. While it is on the edge of campus, students benefit from having their own driveway.",
+    "buildingPhotoLink": "",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1OeOgZjE3hi-RIqG2R9xfO6qQ_uK6mWUG",
+      "https://drive.google.com/uc?export=view&id=15ptOAGve7P0VKohWDew__Yygg4uaIKuK"
+    ],
+    "tags": ["Kitchen"]
+  },
+  {
+    "buildingID": "voter",
+    "buildingName": "Voter Hall",
+    "buildingCategory": "upper",
+    "floors": ["floor 3", "floor 4"],
+    "overview": "Voter is has academic offices on the first floor and 4 suites on the top two floors. The suites have two floors with singles and a kitchenette.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=17-lQCR30SYbKnYRxOv-rk0u_eMnEgOQ0",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1QvtNamMuiMYzVclCf6WGPAV9Y3HPi7kh",
+      "https://drive.google.com/uc?export=view&id=1LTLTsLj4-HYhoIIve6Cy7ANMBS-pslxT"
+    ],
+    "tags": ["Elevator", "Suites", "Kitchen"]
+  },
+  {
+    "buildingID": "weybridge",
+    "buildingName": "Weybridge House",
+    "buildingCategory": "special",
+    "floors": ["basement", "floor 1", "floor 2", "floor 3"],
+    "overview": "Weybridge is Middlebury's food studies house. The 18 students, who live in the four singles and seven doubles, spend their time diving into today’s most pressing food concerns, food systems, and sustainability issues. Weybridge hosts regular events and community meals in its large kitchen and lounges, and residents engage in a unique meal plan: rather than eating at campus dining halls, students order food in bulk from Dining Services and cook as a community. For everything else they need, they turn to the house organic vegetable and herb garden.",
+    "buildingPhotoLink": "https://drive.google.com/uc?export=view&id=10fq64voP11wILZwAzZOjOMIipAbA_LiW",
+    "floorPlanLinks": [
+      "https://drive.google.com/uc?export=view&id=1lmFJ5nu4QbCcYBIx0Cp8VFnU4UdIPZkS",
+      "https://drive.google.com/uc?export=view&id=1KqS3k7SEzwmom4SwnKUfylHjoRklssG-",
+      "https://drive.google.com/uc?export=view&id=1U1-TxEEepOOSXVwIO-DgUMcSHj8Bst8l",
+      "https://drive.google.com/uc?export=view&id=1xWadHsNzQPWj5xjiK9s3jrfGav4nwuA8"
+    ],
+    "tags": ["Kitchen"]
+  }
+]
